@@ -2,7 +2,7 @@
  A simple simulation of an airborne disease in a small area
  
  We're simulating an area crowded with people that are going in random directions.
- when they reach the border of said area they can either go out of it or turn back.
+ When they reach the border of said area they can either go out of it or turn back.
  People can be in set number of states, represented by different colors in the simulation. 
  Firstly, they can be either immune (cyan) to the disease or not.
  If they're not immune they can be healthy (green) or sick.
