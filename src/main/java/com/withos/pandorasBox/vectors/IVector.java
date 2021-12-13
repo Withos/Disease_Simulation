@@ -1,4 +1,4 @@
-package com.withos.pandorasBox.Vectors;
+package com.withos.pandorasBox.vectors;
 
 public interface IVector {
     Double abs();

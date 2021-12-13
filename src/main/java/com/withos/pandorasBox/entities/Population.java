@@ -4,7 +4,7 @@ import com.withos.pandorasBox.states.HealthyState;
 import com.withos.pandorasBox.states.ISick;
 import com.withos.pandorasBox.states.ImmuneState;
 import com.withos.pandorasBox.states.SymptomsState;
-import com.withos.pandorasBox.Vectors.Vector2D;
+import com.withos.pandorasBox.vectors.Vector2D;
 
 import java.util.ArrayList;
 import java.util.HashMap;

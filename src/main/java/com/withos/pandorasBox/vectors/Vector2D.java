@@ -1,4 +1,4 @@
-package com.withos.pandorasBox.Vectors;
+package com.withos.pandorasBox.vectors;
 
 public class Vector2D implements IVector{
     private Double x;

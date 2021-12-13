@@ -1,7 +1,7 @@
 package com.withos.pandorasBox.entities;
 
 import com.withos.pandorasBox.caretaker.Caretaker;
-import com.withos.pandorasBox.Vectors.Vector2D;
+import com.withos.pandorasBox.vectors.Vector2D;
 import com.withos.pandorasBox.xmlparser.XMLHandle;
 
 import java.awt.image.BufferedImage;
